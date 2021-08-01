@@ -1,1 +1,2 @@
 # MallCustomer-Segmentation-
+This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis by using unsupervised ML technique (KMeans Clustering Algorithm) .You are owing a supermarket mall and through membership cards , you have some basic data about your customers like Customer ID, age, gender, annual income and spending score.
